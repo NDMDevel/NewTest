@@ -5,6 +5,7 @@
  *      Author: Damian
  */
 
+int a;
 
 int main(void)
 {
